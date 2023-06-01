@@ -1,0 +1,11 @@
+main.c:80:5:main	5
+main.c:154:6:SystemClock_Config	3
+main.c:200:13:MX_TIM2_Init	6
+main.c:259:13:MX_GPIO_Init	1
+main.c:306:6:GPIO_Init	1
+main.c:320:6:DHT11_Init	1
+main.c:326:6:DHT11_Start	1
+main.c:337:9:DHT11_ReadByte	5
+main.c:362:6:DHT11_ReadData	3
+main.c:429:5:readTemp	1
+main.c:438:6:Error_Handler	1
